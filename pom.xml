@@ -124,7 +124,7 @@
                             <mainClass>org.springframework.shell.Bootstrap</mainClass>
                         </manifest>
                     </archive>
-                    <outputDirectory>${project.build.directory}/modules</outputDirectory>
+                    <outputDirectory>${project.build.directory}/shell</outputDirectory>
                 </configuration>
             </plugin>
             <plugin>
